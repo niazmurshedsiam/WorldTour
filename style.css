@@ -21,3 +21,11 @@
 #countryDetail img{
     width: 350px;
 }
+
+.btn{
+    background: yellow;
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    padding: 20px;
+}
